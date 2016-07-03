@@ -1,0 +1,39 @@
+SELECT
+  unitid,
+  COUNT(*) AS num
+FROM
+  connections 
+ GROUP BY
+  unitid
+  ------------------------- counts number of entrys per unitid---------------
+  
+  unitid zoals '14100071' staan in elke table ( alleen connections)
+  unitid zoals '357566040024266' NIET.
+  --------------------------------------------------------------------------
+  select * from connections where unitid = 14010206 limit 10000;
+  
+  --------------------------------------
+  
+  SELECT
+  dat,
+  COUNT(*) AS num
+FROM
+  connections 
+ GROUP BY
+  dat
+  
+  -------------Gets items per day from **connections ------------------
+  
+SELECT *
+FROM events
+WHERE tim::time without time zone = '07:12:25'
+
+
+-------
+SELECT *
+FROM events
+WHERE tim::time without time zone < CURRENT_TIMESTAMP::time without time zone
+AND unitid = '14100071'
+ORDER BY tim DESC
+limit 1
+  

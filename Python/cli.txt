@@ -1,0 +1,9 @@
+git add . -------- adds all to stage
+git commit -m ".." ----------- commits stage
+git push --all https://github.com/username/repo ------------ push all
+git push origin master
+git add file.ext
+git pull
+----------------------------------------------///-------------------------------------\\\\\\\\\\\\\\\\\\\\\\\\---------------
+
+. activate -- start venv in /bin folder

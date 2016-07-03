@@ -1,0 +1,54 @@
+[  
+   {  
+      "timestamp":"2015-05-11T06:35:24.000Z",
+      "latitude":64.135338,
+      "longitude":-21.89521,
+      "depth":4,
+      "size":2.9,
+      "quality":72.1,
+      "humanReadableLocation":"Reykjavík",
+	  "description":"size 4 in Reykjavík"
+	  
+   },
+   {  
+      "timestamp":"2015-05-11T06:35:24.000Z",
+      "latitude":65.261304,
+      "longitude":-14.007568,
+      "depth":2,
+      "size":1.9,
+      "quality":72.1,
+      "humanReadableLocation":"Seyoisfjorour",
+	  "description":"size 3 in Seyoisfjorour"
+   },
+   {  
+      "timestamp":"2015-05-11T06:35:24.000Z",
+      "latitude":64.659166,
+      "longitude":-14.28772,
+      "depth":6,
+      "size":0.8,
+      "quality":72.1,
+      "humanReadableLocation":"Ojuivogur",
+	  "description":"size 2 in Ojuivogur"
+   },
+   {  
+      "timestamp":"2015-05-11T06:35:24.000Z",
+      "latitude":66.160511,
+      "longitude":-18.907471,
+      "depth":8,
+      "size":3.9,
+      "quality":72.1,
+      "humanReadableLocation":"Siglufjorour",
+	  "description":"size 5 in Siglufjorour"
+   },
+   {  
+      "timestamp":"2015-05-11T06:35:24.000Z",
+      "latitude":65.703518,
+      "longitude":-18.127441,
+      "depth":11,
+      "size":0,
+      "quality":72.1,
+      "humanReadableLocation":"Akureyri",
+	  "description":"size 1 in Akureyri"
+	  
+   }
+]

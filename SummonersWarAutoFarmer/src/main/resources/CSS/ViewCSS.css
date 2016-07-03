@@ -1,0 +1,23 @@
+#MatDesign {
+    -fx-background-color:
+            #2196F3;
+
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+
+}
+#MatDesign:hover {
+    -fx-text-fill: #BBDEFB;
+}
+
+#MatDesignRed {
+    -fx-background-color:
+            #f44336;
+
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+
+}
+#MatDesignRed:hover {
+    -fx-text-fill: #f44336;
+}
